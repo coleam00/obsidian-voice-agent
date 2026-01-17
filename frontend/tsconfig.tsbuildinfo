@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/AudioVisualizer.tsx","./src/components/ReferencedFiles.tsx","./src/components/VoiceAgent.tsx","./src/components/VoiceControls.tsx","./src/hooks/useReferencedFiles.ts"],"version":"5.6.3"}

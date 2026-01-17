@@ -1,0 +1,18 @@
+# Environment
+.env
+.env.*
+
+# Python
+.pytest_cache
+.ruff_cache
+.venv
+windows_venv
+__pycache__
+*.pyc
+
+# Node
+node_modules
+dist
+
+# Project specific
+.vault_index
